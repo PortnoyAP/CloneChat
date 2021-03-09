@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void fu() {
-
+        int number = 1 ;
     }
 }
