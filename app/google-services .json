@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222263172366",
+    "project_id": "clonechat-fc3c3",
+    "storage_bucket": "clonechat-fc3c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222263172366:android:7db0fc2e7d1a288424cb5f",
+        "android_client_info": {
+          "package_name": "com.example.clonechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222263172366-o872p1snp8su5gmih6f74vskbvoj4p17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clonechat",
+            "certificate_hash": "d2794ce49a5b77570e0b3626809808b1c3d0646c"
+          }
+        },
+        {
+          "client_id": "222263172366-6k2drje2ptmv9k90f5bc774nak4tq1eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSx8P-eHgv2kmV7CPHhELp37ub3L-Ryyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222263172366-6k2drje2ptmv9k90f5bc774nak4tq1eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
